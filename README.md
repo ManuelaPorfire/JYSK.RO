@@ -1,2 +1,2 @@
-# JYSK.RO
-Proiect automatizare AutoIt
+# Proiect automatizare AutoIt site-ul JYSK.RO
+
